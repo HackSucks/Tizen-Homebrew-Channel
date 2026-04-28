@@ -1,1 +1,19 @@
-
+{
+  "version": 2,
+  "updated": "2026-04-28",
+  "apps": [
+    {
+      "id": "com.example.discordtv",
+      "name": "TVCord",
+      "description": "Discord client for Tizen",
+      "version": "1.1.0",
+      "author": "nvme",
+      "category": "social",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQSo64weeAlpUwYBIBKt76KoHjdxDSpEGg&s",
+      "wgt_url": "https://github.com/HackSucks/Tizen-Homebrew-Channel/raw/refs/heads/main/TVCord.wgt",
+      "wgt_sha256": "29af4f1d6226a009c11d8e9fa7175d22604b6f8dbdb6e6e85d87cea5e1eae990",    ← verify after download
+      "tizen_min": "6.0",
+      "source_url": "none"
+    }
+  ]
+}
